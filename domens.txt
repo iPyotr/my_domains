@@ -136,3 +136,12 @@ rutracker.org
 rutracker.wiki
 nnmclub.to
 nnmstatic.win
+openai.com
+chatgpt.com
+api.openai.com
+platform.openai.com
+auth0.com
+chat.openai.com
+oaidalleapiprodscus.blob.core.windows.net
+openaiapi-site.azureedge.net
+cdn.oaistatic.com
