@@ -145,3 +145,4 @@ chat.openai.com
 oaidalleapiprodscus.blob.core.windows.net
 openaiapi-site.azureedge.net
 cdn.oaistatic.com
+notebooklm.google
