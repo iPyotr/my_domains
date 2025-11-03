@@ -147,3 +147,4 @@ openaiapi-site.azureedge.net
 cdn.oaistatic.com
 notebooklm.google
 google.com
+notebooklm.google.com
